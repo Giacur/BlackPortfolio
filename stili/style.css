@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.social i {
+    color: white;
+    font-size: 1.7rem;
+}
+
+hr {
+    border: none;
+    border: 1px solid white;
+    width: 100%;
+    background-color: white;
+}
+
+.portfolio .col-md-4 {
+    height: 30vh;
+    overflow: hidden;
+}
+
+#special-rule {
+    height: 7px;
+    background-color: white;
+    border: 1px solid white;
+}
